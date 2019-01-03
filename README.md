@@ -16,14 +16,14 @@ The book will be a comprehensive look at what it takes to build a real-world app
 I have chosen technologies that I have worked with in the real world. These are proven and powerful when combined elegantly and used correctly. 
 
 ### Major Building Blocks
-The backend API is built using [https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2](ASP.NET Core 2.2)
-Data is stored in [https://azure.microsoft.com/en-ca/services/sql-database/](SQL Database) in Azure
-The client will is built with HTML and styled with [https://getbootstrap.com/](Bootstrap 4)
-Client-side iteraction and features are built with [https://vuejs.org/](Vue.JS)
+The backend API is built using [ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
+Data is stored in [SQL Database](https://azure.microsoft.com/en-ca/services/sql-database/) in Azure
+The client will is built with HTML and styled with [Bootstrap 4](https://getbootstrap.com/)
+Client-side iteraction and features are built with [Vue.JS](https://vuejs.org/)
 
 ### Supporting Libraries, Concepts and Tooling
-I use [https://github.com/soukoku/vue-oidc-client](vue-oidc-client) for client-side auth support with `vue-router`
-Vue.JS libraries are written in [https://www.typescriptlang.org/](TypeScript)
-The API is secured with [https://identityserver4.readthedocs.io/en/latest/](IdentityServer 4)
+I use [vue-oidc-client](https://github.com/soukoku/vue-oidc-client) for client-side auth support with `vue-router`
+Vue.JS libraries are written in [TypeScript](https://www.typescriptlang.org/)
+The API is secured with [IdentityServer 4](https://identityserver4.readthedocs.io/en/latest/)
 
 
