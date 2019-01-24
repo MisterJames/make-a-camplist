@@ -1,55 +1,67 @@
 # WIP - Table of Contents 
 
 ## I Warming Up
-The MVC Core Starter Project and Solution Structure
-Controllers and Views vs. Razor Pages
-Good Practices for Finding Success
-Make Sense of SCSS: Building Bootstrap in Visual Studio
-Real World: Improving Asset Organization
+The MVC Framework: Controllers, Views and Razor Pages
+The Middle Ground: Embedding Vue.JS in a View
+The Full Front-end Monty: Client Projects for Client-Side Development
+Setting up our Work Environment
+Real World: Configuring our Build Pipeline
 
-## II Enhancing Our Views
-Realistic Test Data for Our View
+## II Laying the Application Foundation
+Make Sense of SCSS: Building Bootstrap
 Bootstrap Layout Basics
 Flex-ing our Layout Muscles
-Real World: Building Features with MediatR
+Building Controllers and Features
+Modeling our DB and Working with Test Data
+Real World: Fetching Data from the API using Axios
 
-## IV Reusability With Bootstrap in MVC Core
-Rendering Information Cards
-ASP.NET Core TagHelpers
-Reusing Design Elements on Multiple Pages
-Building Reusable View Components
-Real World: Hiding and Displaying Cards with Vue
+## III Browse camplist templates
+Displaying Data with Bootstrap Cards
+Adding Actions and Other Details to Cards
+Grouping Data with Card Groups and Card Decks
 
-*Display and Editor Templates, complex types
+## IV Establish User Identity
+Configuring Azure AD B2C
+Configuring Vue Router
+Configuring the API to Trust Users
+Establishing Trust from the Client
 
-## III Exploring Bootstrap
-Search-as-You-Type Using Bootstrap Components
-Standard Styling and Horizontal Forms
-Bootstrap Alerts and MVC Framework TempData
-Conceptual Organization of the Bootstrap Library
-Real World: Using Vue for Type-Ahead With ASP.NET Core
+## V Create Your Camping Trip
+ - Capturing Trip Information
+ - Adding Validation to Our Form
+ - Enabling Multiple Validation Scenarios
+ - Saving Data To the API 
+ - Maintaining Camping Trip Ownership
 
-## IV Adding Some Sparkle
-Customizing and Rendering Bootstrap Badges
-Long-Running Notifications Using Badges and Entity Framework Code First
-Using Service Injection for Notifications
-Cleaning Up Filtering, the Layout & the Menu
-Real World: 
+## VI Manage Your Camping Party
+ - Adding People to Your Trip
+ - Improving the Guest List Status
+ - Sending Email Invites
+ - Accepting An Invite
 
-## V So, You’ve Got People Logging In
-Authentication Concepts with JS Frameworks
-Storing User Profile Information
-Personalizing Notifications
-Bootstrap Tabs for Managing Accounts
-Rendering Data in a Bootstrap Table
-Real World: Loading Table Data Asyncronously with Vue
+## VII Maintain Your Camping List
+ - Using SignalR to Collaborate on Your List
+ - Viewing and "Claiming" Camping Items
+ - Creating a "Let's Go!" List
 
-## VI Wrapping Up With Some More Bootstrap
-Doing More Interesting Things With Buttons
-Confirmation Dialogs for Delete Actions
-Loading Bootstrap Modal Content with Vue
+## VII Keep Track of What Happens
+ - Extending the API to Track Activities
+ - Storing Feeds in Azure Table Storage
+ - Updating Features to Add Activities
+ - Integrating Activity Feeds with the View    
+
+## VIII  Augment the UI with Other Enhancments
+ - Displaying a Badge for Upcoming Trips
+ - Cloning a Camp Trip
+
+## IX Automate Trip Features
+ - Building a Pre-Flight Checklist (timer trigger)
+ - Sending a "Welcome Home" Post-Trip Followup
+
 
 ## Wrapping it All Up
-Appendix I: A Primer on Vue
-Appendix II: Getting Started with TypeScript
-Appendix II: The ASP.NET Developer's Guide to Frontend Frameworks
+ - Appendix I: A Primer on Vue
+ - Appendix II: Getting Started with TypeScript 
+ - Appendix III: The ASP.NET Developer's Guide to Frontend Frameworks 
+
+
