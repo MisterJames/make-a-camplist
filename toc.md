@@ -1,30 +1,30 @@
 # WIP - Table of Contents 
 
 ## I Warming Up
-The MVC Framework: Controllers, Views and Razor Pages
-The Middle Ground: Embedding Vue.JS in a View
-The Full Front-end Monty: Client Projects for Client-Side Development
-Setting up our Work Environment
-Real World: Configuring our Build Pipeline
+ - The MVC Framework: Controllers, Views and Razor Pages
+ - The Middle Ground: Embedding Vue.JS in a View
+ - The Full Front-end Monty: Client Projects for Client-Side Development
+ - Setting up our Work Environment
+ - Real World: Configuring our Build Pipeline
 
 ## II Laying the Application Foundation
-Make Sense of SCSS: Building Bootstrap
-Bootstrap Layout Basics
-Flex-ing our Layout Muscles
-Building Controllers and Features
-Modeling our DB and Working with Test Data
-Real World: Fetching Data from the API using Axios
+ - Make Sense of SCSS: Building Bootstrap
+ - Bootstrap Layout Basics
+ - Flex-ing our Layout Muscles
+ - Building Controllers and Features
+ - Modeling our DB and Working with Test Data
+ - Real World: Fetching Data from the API using Axios
 
 ## III Browse camplist templates
-Displaying Data with Bootstrap Cards
-Adding Actions and Other Details to Cards
-Grouping Data with Card Groups and Card Decks
+ - Displaying Data with Bootstrap Cards
+ - Adding Actions and Other Details to Cards
+ - Grouping Data with Card Groups and Card Decks
 
 ## IV Establish User Identity
-Configuring Azure AD B2C
-Configuring Vue Router
-Configuring the API to Trust Users
-Establishing Trust from the Client
+ - Configuring Azure AD B2C
+ - Configuring Vue Router
+ - Configuring the API to Trust Users
+ - Establishing Trust from the Client
 
 ## V Create Your Camping Trip
  - Capturing Trip Information
