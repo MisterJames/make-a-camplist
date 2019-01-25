@@ -5,11 +5,12 @@ This is the project to back the new book I'm working on, exploring fullstack dev
 The book will be a comprehensive look at what it takes to build a real-world application. It is modelled after some of my previous work, but updated to include all-new concepts, updated frameworks and libraries, proper front-end development and cloud-powered features that open up new doors for developers.
 
  * A proven, demonstrated method for combining front end frameworks with ASP.NET Core
- * Content you can learn and work through in a lunch hour
+ * Content you can learn and work through in a lunch hour, chapter by chapter
  * Over thirty Chapters of fresh, applicable content
- * Six real world scenarios with completed solutions
+ * Eight real world scenarios with completed solutions
  * Examples featuring TypeScript and Vue.JS
- * Tips and Tricks for working in Visual Studio
+ * Deep dives into modern Azure features
+ * Tips and Tricks for working in Visual Studio and Visual Studio Code
 
 ## Tech Stack
 

@@ -1,7 +1,7 @@
 # WIP - Table of Contents 
 
 ## I Warming Up
- - The MVC Framework: Controllers, Views and Razor Pages
+ - The MVC Framework: Controllers, Views, Razor Pages and Blazor
  - The Middle Ground: Embedding Vue.JS in a View
  - The Full Front-end Monty: Client Projects for Client-Side Development
  - Setting up our Work Environment
