@@ -4,12 +4,11 @@
  - The MVC Framework: Controllers, Views, Razor Pages and Blazor
  - The Middle Ground: Embedding Vue.JS in a View
  - The Full Front-end Monty: Client Projects for Client-Side Development
- - Setting up our Work Environment
+ - Setting up our Work Environment - Tools & Utilities
  - Real World: Configuring our Build Pipeline
 
 ## II Laying the Application Foundation
- - Make Sense of SCSS: Building Bootstrap
- - Bootstrap Layout Basics
+ - Adding Vuetify to our Project
  - Flex-ing our Layout Muscles
  - Building Controllers and Features
  - Modeling our DB and Working with Test Data
